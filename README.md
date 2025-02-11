@@ -1,2 +1,1 @@
-Title : Amazon Sales Data Analysis
-Domain : E-commerce
+Amazon Sales Data Analysis (E-commerce)
